@@ -1,0 +1,7 @@
+{
+	"Questions": [
+		 ["Nível fácil" , "Uma pessoa pensa na possibilidade de dar a volta ao mundo a pé. Conversando com os amigos, imagina a possibilidade de existir um caminho em linha reta, desprezando a existência da água. Nestas condições, determine a quantidade de dias que ela andaria, sem parar, sabendo que a circunferência da terra mede aproximadamente 40.075 km e que uma pessoa andando com conforto possui a velocidade média de 1m/s.", "464,350,300,280", "464"],
+	["Nível fácil" , "Um ciclista possui velocidade de 5 m/s, ao passar por uma placa de uma estrada que indica um restaurante a 30 m adiante. Considerando a posição a partir placa, e que a velocidade do ciclista está em MRU, quantos segundos irá demorar para ele passar pelo restaurante?", "4,2,6,10", "6"]
+		]
+	
+}
