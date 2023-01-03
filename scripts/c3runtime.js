@@ -4006,6 +4006,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.OnLayoutStart,
 		C3.Plugins.System.Acts.SetVar,
 		C3.Plugins.Keyboard.Cnds.IsKeyDown,
+		C3.Plugins.Touch.Cnds.OnDoubleTapGestureObject,
 		C3.Plugins.System.Cnds.CompareVar,
 		C3.Plugins.AJAX.Acts.RequestFile,
 		C3.Plugins.AJAX.Cnds.OnComplete,
@@ -4014,6 +4015,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Json.Exps.ArraySize,
 		C3.Plugins.System.Acts.GoToLayout,
 		C3.Plugins.Keyboard.Cnds.OnKey,
+		C3.Plugins.Touch.Cnds.IsInTouch,
 		C3.Plugins.System.Acts.AddVar,
 		C3.Plugins.System.Acts.SubVar,
 		C3.Plugins.Sprite.Acts.SetPosToObject,
@@ -4042,7 +4044,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.LayerVisible,
 		C3.Plugins.System.Acts.ResetGlobals,
 		C3.Plugins.Audio.Acts.StopAll,
-		C3.Plugins.Touch.Cnds.OnDoubleTapGestureObject,
 		C3.Behaviors.Flash.Acts.Flash
 	];
 };
